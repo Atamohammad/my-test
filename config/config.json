@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Andromeda Light Nextjs",
+    "title": "Soholat Technology",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.svg",
+    "favicon": "/images/logo-favicon.png",
+    "logo": "/images/logo-dark-transparent.png",
     "logo_width": "240",
     "logo_height": "34",
     "logo_text": "Andromeda"
@@ -18,20 +18,20 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "copyright": "Designed & Developed By [Themefisher](https:www.themefisher.com)"
+    "footer_content": "We will build every thing you wish.",
+    "copyright": "Designed & Developed By [Saholat Technology](https:www.atamohammad.vercel.app)"
   },
 
   "contact_info": {
-    "phone": "+887887998",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624"
+    "phone": "+93749823766",
+    "email": "motawakel41@gmail.com",
+    "location": "Kabul, Afghanistan"
   },
 
   "nav_button": {
     "enable": true,
     "label": "Download Now",
-    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    "link": "#"
   },
 
   "metadata": {
